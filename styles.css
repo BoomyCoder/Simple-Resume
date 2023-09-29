@@ -1,0 +1,19 @@
+/* */
+
+/* Summery Section CSS */
+h1 {
+    font-size: 40px;
+  }
+  #profilePic {
+    width:175px;
+  }
+  
+  /* Footer Section */
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .footerlink {
+    padding: 20px;
+  }
